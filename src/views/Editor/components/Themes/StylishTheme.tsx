@@ -59,7 +59,7 @@ function StylishTheme({ config }: ThemeProps) {
   const pageSize = 30
   const [loading, setLoading] = useState(false)
   const [downloading, setDownloading] = useState(false)
-  const [searchText, setSearchText] = useState('setup')
+  const [searchText, setSearchText] = useState('chinese medicine')
   const [orientation, setOrientation] = useState<Orientation | 'all'>('all')
   const [resultColor, setResultColor] = useState<ColorId | 'all'>('all')
   const { unsplashImage, setUnsplashImage } = use(ImgContext)
