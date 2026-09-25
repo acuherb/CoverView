@@ -34,7 +34,6 @@ export const fontOptions: ThemeFont[] = [
   'font-mono',
   'font-sans',
   'font-serif',
-  'font-MaShanZheng',
 ]
 
 export const patternOptions: ThemePattern[] = [

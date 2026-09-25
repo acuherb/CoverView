@@ -7,7 +7,7 @@ export interface ColorTheme {
 
 export type ThemeFont =
   | 'font-Virgil' | 'font-MMT' | 'font-Anek' | 'font-Inter' | 'font-Poppins'
-  | 'font-mono' | 'font-sans' | 'font-serif' | 'font-MaShanZheng'
+  | 'font-mono' | 'font-sans' | 'font-serif' 
 
 export type ThemeType = 'basic' | 'modern' | 'outline' | 'preview' | 'stylish' | 'mobile' | 'background'
 
