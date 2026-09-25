@@ -90,6 +90,7 @@ export default {
       'font-mono': 'Monospace',
       'font-sans': 'Sans serif',
       'font-serif': 'Serif',
+      'font-MaShanZheng': '马善政',
     },
   },
   pagination: {

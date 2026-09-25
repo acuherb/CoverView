@@ -91,6 +91,7 @@ export default {
       'font-mono': '等宽字体',
       'font-sans': '无衬线字体',
       'font-serif': '衬线字体',
+      'font-MaShanZheng': '马善政',
     },
   },
   pagination: {
