@@ -38,7 +38,7 @@ function UnsplashCopyright() {
         </a>
         <a
           className="text-sm text-white mx-2"
-          href="https://unsplash.com/?utm_source=https://coverview.lruihao.cn&utm_medium=referral"
+          href="https://unsplash.com/?utm_source=https://coverview.acuherb.xyz&utm_medium=referral"
           rel="noreferrer"
           target="_blank"
         >
@@ -127,7 +127,7 @@ function BackgroundTheme({ config }: ThemeProps) {
       url: image.urls.regular,
       name: image.user.name,
       avatar: image.user.profile_image.small,
-      profile: `${image.user.links.html}?utm_source=https://coverview.lruihao.cn&utm_medium=referral`,
+      profile: `${image.user.links.html}?utm_source=https://coverview.acuherb.xyz&utm_medium=referral`,
       downloadLink: image.links.download_location,
     })
   }

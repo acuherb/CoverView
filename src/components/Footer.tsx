@@ -31,7 +31,7 @@ function Footer() {
             </Link>
             <a
               className="m-2 hover:underline"
-              href="https://github.com/Lruihao/CoverView"
+              href="https://github.com/acuherb/CoverView"
               rel="noreferrer"
               target="_blank"
             >

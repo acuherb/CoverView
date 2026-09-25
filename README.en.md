@@ -2,7 +2,7 @@
 
 👉 [简体中文说明](README.md) | English README
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Lruihao/CoverView)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/acuherb/CoverView)
 
 > This project is based on the original [CoverView](https://github.com/rutikwankhade/CoverView).
 
@@ -51,7 +51,7 @@ This project mainly uses the following technology stack:
 1. Clone the project and install dependencies:
 
     ```shell
-    git clone https://github.com/Lruihao/CoverView.git
+    git clone https://github.com/acuherb/CoverView.git
     cd CoverView/
     pnpm i
     ```
@@ -74,7 +74,7 @@ This project mainly uses the following technology stack:
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-1. Fork it (<https://github.com/Lruihao/CoverView/fork>)
+1. Fork it (<https://github.com/acuherb/CoverView/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -87,6 +87,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - [Hero Patterns](https://www.heropatterns.com/)
 - [Devicons](https://github.com/devicons/devicon)
 - [Font Virgil](https://github.com/excalidraw/virgil)
-- [Font MMT](https://github.com/Lruihao/mmt-webfont)
+- [Font MMT](https://github.com/acuherb/mmt-webfont)
 
 Don't forget to leave a ⭐ if you found this useful.

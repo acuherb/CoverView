@@ -2,7 +2,7 @@
 
 👉 简体中文说明 | [English README](README.en.md)
 
-[![用爱发电](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Lruihao/CoverView)
+[![用爱发电](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/acuherb/CoverView)
 
 > 该项目基于原始的 [CoverView](https://github.com/rutikwankhade/CoverView)。
 
@@ -51,7 +51,7 @@
 1. 下载项目并安装依赖：
 
     ```shell
-    git clone https://github.com/Lruihao/CoverView.git
+    git clone https://github.com/acuherb/CoverView.git
     cd CoverView/
     pnpm i
     ```
@@ -74,7 +74,7 @@
 
 欢迎提交拉取请求。对于重大更改，请先打开一个问题来讨论你想要更改的内容。
 
-1. 克隆它 (<https://github.com/Lruihao/CoverView/fork>)
+1. 克隆它 (<https://github.com/acuherb/CoverView/fork>)
 2. 创建你的功能分支 (`git checkout -b feature/fooBar`)
 3. 提交你的更改 (`git commit -am 'Add some fooBar'`)
 4. 推送到分支 (`git push origin feature/fooBar`)
@@ -87,6 +87,6 @@
 - [Hero Patterns](https://www.heropatterns.com/)
 - [Devicons](https://github.com/devicons/devicon)
 - [Font Virgil](https://github.com/excalidraw/virgil)
-- [Font MMT](https://github.com/Lruihao/mmt-webfont)
+- [Font MMT](https://github.com/acuherb/mmt-webfont)
 
 如果你觉得这个项目有用，请别忘了留下一个 ⭐。

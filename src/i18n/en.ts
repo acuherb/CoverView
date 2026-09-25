@@ -26,10 +26,10 @@ export default {
     },
     tryItNow: 'It\'s Free! Try now',
     footer: {
-      copyright: 'Made with 💛 by <a href="https://github.com/Lruihao" class="font-semibold underline decoration-wavy underline-offset-4" target="_blank" rel="noreferrer">Lruihao</a>',
-      authorBlog: 'Checkout <a href="https://lruihao.cn/projects/" target="_blank" rel="noreferrer" class="text-purple-400 hover:text-pink-400">more cool stuff</a> I built',
+      copyright: 'Made with 💛 by <a href="https://github.com/acuherb" class="font-semibold underline decoration-wavy underline-offset-4" target="_blank" rel="noreferrer">acuherb</a>',
+      authorBlog: 'Checkout <a href="https://acuherb.xyz/projects/" target="_blank" rel="noreferrer" class="text-purple-400 hover:text-pink-400">more cool stuff</a> I built',
     },
-    tweetText: 'type your thoughts here, Try https://coverview.lruihao.cn by @Lruihao',
+    tweetText: 'type your thoughts here, Try https://coverview.acuherb.xyz by @acuherb',
   },
   faq: {
     title: 'Frequently Asked Questions',
@@ -56,7 +56,7 @@ export default {
       },
       {
         q: 'Want to support/sponsor the project?',
-        a: 'If CoverView adds value in your life and you wish to support this project, you can sponsor me with <a class="font-semibold text-green-400 hover:underline" href="https://lruihao.cn/images/wechatpay.jpg" rel="noreferrer" target="_blank">WeChat</a>/<a class="font-semibold text-blue-400 hover:underline" href="https://lruihao.cn/images/alipay.jpg" rel="noreferrer" target="_blank">Alipay</a> or <a class="font-semibold text-pink-400 hover:underline" href="https://www.buymeacoffee.com/rutikwankhade" rel="noreferrer" target="_blank">buy Rutik Wankhade a coffee</a>.',
+        a: 'If CoverView adds value in your life and you wish to support this project, you can sponsor me with <a class="font-semibold text-green-400 hover:underline" href="https://acuherb.xyz/images/wechatpay.jpg" rel="noreferrer" target="_blank">WeChat</a>/<a class="font-semibold text-blue-400 hover:underline" href="https://acuherb.xyz/images/alipay.jpg" rel="noreferrer" target="_blank">Alipay</a> or <a class="font-semibold text-pink-400 hover:underline" href="https://www.buymeacoffee.com/rutikwankhade" rel="noreferrer" target="_blank">buy Rutik Wankhade a coffee</a>.',
       },
     ],
     tips: {

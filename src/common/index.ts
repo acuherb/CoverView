@@ -12,7 +12,7 @@ export const defaultSettings: ThemeConfig = {
   title: 'A begineers guide to frontend development',
   bgColor: '#949ee5',
   pattern: '',
-  author: import.meta.env.REACT_APP_AUTHOR || 'Lruihao',
+  author: import.meta.env.REACT_APP_AUTHOR || 'acuherb',
   icon: { label: 'reactjs', value: 'react', opts: ['original', 'original-wordmark'] },
   iconStyle: 'original',
   iconStyleOptions: ['original', 'original-wordmark'],

@@ -26,10 +26,10 @@ export default {
     },
     tryItNow: '免费！立即试用',
     footer: {
-      copyright: '为爱发电 💛 <a href="https://github.com/Lruihao" class="font-semibold underline decoration-wavy underline-offset-4" target="_blank" rel="noreferrer">Lruihao</a>',
-      authorBlog: '查看我的 <a href="https://lruihao.cn/projects/" target="_blank" rel="noreferrer" class="text-purple-400 hover:text-pink-400">其他作品</a>',
+      copyright: '为爱发电 💛 <a href="https://github.com/acuherb" class="font-semibold underline decoration-wavy underline-offset-4" target="_blank" rel="noreferrer">acuherb</a>',
+      authorBlog: '查看我的 <a href="https://acuherb.xyz/projects/" target="_blank" rel="noreferrer" class="text-purple-400 hover:text-pink-400">其他作品</a>',
     },
-    tweetText: '在这里输入你的想法，试试 https://coverview.lruihao.cn by @Lruihao',
+    tweetText: '在这里输入你的想法，试试 https://coverview.acuherb.xyz by @acuherb',
   },
   faq: {
     title: '常见问题',
@@ -56,8 +56,8 @@ export default {
       },
       {
         q: '想要支持/赞助这个项目吗？',
-        // a: 'If CoverView adds value in your life and you wish to support this project, you can sponsor me with <a class="font-semibold text-green-400 hover:underline" href="https://lruihao.cn/images/wechatpay.jpg" rel="noreferrer" target="_blank">WeChat</a>/<a class="font-semibold text-blue-400 hover:underline" href="https://lruihao.cn/images/alipay.jpg" rel="noreferrer" target="_blank">Alipay</a> or <a class="font-semibold text-pink-400 hover:underline" href="https://www.buymeacoffee.com/rutikwankhade" rel="noreferrer" target="_blank">buy Rutik Wankhade a coffee</a>',
-        a: '如果 Coverview 为你的生活增添了价值，并且你希望支持这个项目，你可以通过 <a class="font-semibold text-green-400 hover:underline" href="https://lruihao.cn/images/wechatpay.jpg" rel="noreferrer" target="_blank">微信</a> / <a class="font-semibold text-blue-400 hover:underline" href="https://lruihao.cn/images/alipay.jpg" rel="noreferrer" target="_blank">支付宝</a> 赞助我或者给 Rutik Wankhade <a class="font-semibold text-pink-400 hover:underline" href="https://www.buymeacoffee.com/rutikwankhade" rel="noreferrer" target="_blank">买杯咖啡</a>。',
+        // a: 'If CoverView adds value in your life and you wish to support this project, you can sponsor me with <a class="font-semibold text-green-400 hover:underline" href="https://acuherb.xyz/images/wechatpay.jpg" rel="noreferrer" target="_blank">WeChat</a>/<a class="font-semibold text-blue-400 hover:underline" href="https://acuherb.xyz/images/alipay.jpg" rel="noreferrer" target="_blank">Alipay</a> or <a class="font-semibold text-pink-400 hover:underline" href="https://www.buymeacoffee.com/rutikwankhade" rel="noreferrer" target="_blank">buy Rutik Wankhade a coffee</a>',
+        a: '如果 Coverview 为你的生活增添了价值，并且你希望支持这个项目，你可以通过 <a class="font-semibold text-green-400 hover:underline" href="https://acuherb.xyz/images/wechatpay.jpg" rel="noreferrer" target="_blank">微信</a> / <a class="font-semibold text-blue-400 hover:underline" href="https://acuherb.xyz/images/alipay.jpg" rel="noreferrer" target="_blank">支付宝</a> 赞助我或者给 Rutik Wankhade <a class="font-semibold text-pink-400 hover:underline" href="https://www.buymeacoffee.com/rutikwankhade" rel="noreferrer" target="_blank">买杯咖啡</a>。',
       },
     ],
     tips: {
